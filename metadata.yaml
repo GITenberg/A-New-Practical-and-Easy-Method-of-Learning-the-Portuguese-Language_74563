@@ -1,0 +1,27 @@
+_repo: A-New-Practical-and-Easy-Method-of-Learning-the-Portuguese-Language_74563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ahn, Franz
+    gutenberg_agent_id: '57556'
+    url: http://www.gutenberg.org/2009/agents/57556
+description: ''
+gutenberg_issued: '2024-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74563'
+language: en
+pgterms:marc904: https://archive.org/details/newpracticaleasy00ahnf
+pgterms:marc905: 20220419171843ahn
+pgterms:marc906: '1857'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bFranz Thimm, $c1857.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A New, Practical and Easy Method of Learning the Portuguese Language
+url: http://www.gutenberg.org/ebooks/74563
